@@ -2,7 +2,7 @@
 clear
 echo
 echo "Tunggu Sampai Proses Selesai Tod Sabar..!"
-echo "Ucapkan Yayan Ganteng 3X Biar Work Xixixi:v"
+echo "Ucapkan HILMAN Ganteng 3X Biar Work Xixixi:v"
 echo
 pkg install python -y
 clear 
