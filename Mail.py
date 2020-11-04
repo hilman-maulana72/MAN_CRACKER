@@ -61,7 +61,7 @@ def email():
   \33[0;36mTotal \33[36;1m: \33[35;1m '''))
   setpw=input('''
 \33[34;1m────────────────────────────────────────────────
-\33[0;35mContoh Password \33[31;1m: \33[32;1mYayan123
+\33[0;35mContoh Password \33[31;1m: \33[32;1mhilman123
   \33[0;36mMasukan password \33[36;1m:\33[33;1m ''').split(',')
   [data.append({'user': nama+str(e)+list[domain], 'pw':[(i) for i in setpw]}) for e in range(1,jml+5)]
   print('''
